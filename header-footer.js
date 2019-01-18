@@ -4,7 +4,7 @@ window.onload = function() {
         <table align="center" class='header-table'>
             <tr>
                 <td id='link1'><a href="index.html">Home</a></td>
-                <td id='link3'><a href="resume.html">Resumé & Cover Letter</a></td>
+                <td id='link3'><a href="resume.html">Resumé, Cover Letter, Job Posting</a></td>
                 <td id='link4'><a href="videos.html">Videos</a></td>
                 <td id='link5'><a href="robotics.html">Robotics</a></td>
             </tr>

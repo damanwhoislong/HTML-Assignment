@@ -92,3 +92,14 @@ body h2 {
     overflow: auto;
 }
 
+.logo {
+    vertical-align: -10%;
+    height: 30px;
+    width: 90px;
+}
+
+#links {
+    font-size: 1.2em;
+    line-height: 3em;
+}
+
