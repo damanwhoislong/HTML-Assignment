@@ -74,8 +74,7 @@ body h2 {
 #grad-image {
     float: left;
     padding: 2em 2em 2em 2em;
-    height: 500px;
-    /*border-radius: 50%;*/
+    height: 700px;
 }
 
 #display-frame {
@@ -85,7 +84,7 @@ body h2 {
     padding-left: 20%;
     padding-right: 20%;*/
     width: 50em;
-    height: 1700px;
+    height: 1650px;
 }
 
 #home-content {
@@ -105,3 +104,15 @@ body h2 {
     display: inline-block;
 }
 
+.robotics-table-cell {
+    vertical-align: top;
+    width: 50%;
+    border-right: solid 1px lightgray; 
+    border-left: solid 1px lightgray;
+}
+
+#robotics-table {
+    vertical-align: top;
+    border-collapse: collapse;
+    
+}
