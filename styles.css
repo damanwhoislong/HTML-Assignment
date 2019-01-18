@@ -47,6 +47,9 @@ table.header-table {
 body {
     text-align: center;
     background-color: azure;
+    border-style: outset;
+    border-width: 1px;
+    border-color: black;
 }
 
 body h1 {
